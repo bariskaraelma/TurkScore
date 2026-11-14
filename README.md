@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| **Windows** (taşınabilir, kurulum gerekmez) | [TurkScore-0.2-Windows.zip](https://github.com/bariskaraelma/TurkScore/releases/download/turkscore-0.2/TurkScore-0.2-Windows.zip) |
-| **Mac** (Apple Silicon ve Intel) | [TurkScore-0.2-Mac.dmg](https://github.com/bariskaraelma/TurkScore/releases/download/turkscore-0.2/TurkScore-0.2-Mac.dmg) |
+| **Windows** (taşınabilir, kurulum gerekmez) | [TurkScore-0.3-Windows.zip](https://github.com/bariskaraelma/TurkScore/releases/download/turkscore-0.3/TurkScore-0.3-Windows.zip) |
+| **Mac** (Apple Silicon ve Intel) | [TurkScore-0.3-Mac.dmg](https://github.com/bariskaraelma/TurkScore/releases/download/turkscore-0.3/TurkScore-0.3-Mac.dmg) |
 
 Bütün sürümler ve kurulum adımları: **[Sürümler (Releases)](https://github.com/bariskaraelma/TurkScore/releases/latest)**. İndirmek için GitHub hesabı gerekmez.
 
@@ -17,13 +17,15 @@ Bütün sürümler ve kurulum adımları: **[Sürümler (Releases)](https://gith
 
 ## Neler var
 
-- **Finale benzeri araç çubuğu:** notanın solunda Seçim, Nota girişi, Makam, THM, Usul, Artikülasyon, Nüans, Metin… (istenirse MuseScore'un palet paneli)
+- **Finale benzeri araç çubuğu:** notanın solunda Seçim, Nota girişi, Hızlı giriş, Usul, Makam, THM, Artikülasyon, Nüans, Metin… (istenirse MuseScore'un palet paneli)
+- **Hızlı giriş (S):** Finale'deki Speedy Entry gibi; ↑/↓ ile çizgi ve aralıklarda gezip rakamla nota değerini seçer, Enter ile yazarsınız
 - **AEU donanımları ve arızaları:** 17 makam donanımı; koma, bakiye, küçük ve büyük mücennep diyez/bemoller; kendi donanımınızı oluşturma
 - **THM (TRT Türk halk müziği) donanımları** ve 1–5 komalık diyez/bemoller
 - **Makama göre perde ayarı:** notalar yazıldığı makamın perdeleriyle çalınır; Makam akordu penceresi, "Diziyi dinle"
 - **Ahenk:** Bolâhenk'ten Dâvut Mâbeyni'ne ney ahenkleri
 - **Türk arıza ↑/↓ adımları:** ↑/↓ tuşları notayı Türk arızalarının basamaklarıyla yükseltir, alçaltır
-- **Usuller:** 17 usul, kendi usulünüzü oluşturma, düm/tek çalan usullü metronom
+- **Usuller:** 17 usul, Türk müziğindeki sap bağlantılarıyla (Aksak 2+2+2+3, Devr-i Hindî 3+2+2…), düm üst tek alt çizgide; kendi usulünüzü oluşturma, düm/tek çalan usullü metronom
+- **SymbTr eserlerini açma:** SymbTr MusicXML dosyaları Türk makam notası olarak açılır
 - **Türk müziği çalgıları**
 - **Makam Eğitimi:** makam dizileri, usuller ve örnek eserlerle hazır dersler
 - **Bona (deneysel):** mikrofona söyleyerek ritim girişi
