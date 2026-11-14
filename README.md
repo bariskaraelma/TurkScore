@@ -13,7 +13,7 @@
 
 Bütün sürümler ve kurulum adımları: **[Sürümler (Releases)](https://github.com/bariskaraelma/TurkScore/releases/latest)**. İndirmek için GitHub hesabı gerekmez.
 
-![TurkScore: Finale benzeri araç çubuğu ve Rast dizisi](makam/readme/ekran-finale.png)
+![TurkScore: Finale benzeri araç çubuğu ve Aksak Semâî usulünde Hicaz Saz Semâîsi](makam/readme/ekran-finale.png)
 
 ## Neler var
 
