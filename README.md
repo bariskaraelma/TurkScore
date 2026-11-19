@@ -1,8 +1,8 @@
 ![TurkScore](makam/readme/acilis-ekrani.png)
 
-# TurkScore
+# TurkScore: Türk müziği nota yazma programı
 
-**Türk makam müziği nota yazım programı.** Açık kaynaklı [MuseScore Studio](https://musescore.org) 4.7 üzerine kurulmuştur; makam, usul ve koma arızalarını eklentisiz, yerleşik olarak yazar ve çalar.
+**TurkScore, Türk makam müziği nota yazım programıdır.** Açık kaynaklı [MuseScore Studio](https://musescore.org) 4.7 üzerine kurulmuştur; makam, usul ve koma arızalarını eklentisiz, yerleşik olarak yazar ve çalar.
 
 ## İndir
 
@@ -14,6 +14,8 @@
 Bütün sürümler ve kurulum adımları: **[Sürümler (Releases)](https://github.com/bariskaraelma/TurkScore/releases/latest)**. İndirmek için GitHub hesabı gerekmez.
 
 ![TurkScore: Finale benzeri araç çubuğu ve Aksak Semâî usulünde Hicaz Saz Semâîsi](makam/readme/ekran-finale.png)
+
+Geliştirici: **Barış Karaelma**. TurkScore ile Türk müziği notası yazabilir, makama göre doğru perdelerle çaldırabilir, koma arızalı (AEU ve THM) notaları ve usulleri yazabilirsiniz. İngilizce: *TurkScore is a free Turkish makam music notation software (Windows, Mac).*
 
 ## Neler var
 
